@@ -1,0 +1,62 @@
+[
+    {
+        "admin": "Lisboa"
+    }, 
+    {
+        "admin": "Porto"
+    }, 
+    {
+        "admin": "Braga" 
+    }, 
+    {
+        "admin": "Madeira"
+    }, 
+    { 
+        "admin": "Setubal"
+    }, 
+    {
+        "admin": "Coimbra"
+    }, 
+    {
+        "admin": "Azores"
+    }, 
+    {
+        "admin": "Faro"
+    }, 
+    {
+        "admin": "Evora"
+    }, 
+    {
+        "admin": "Aveiro"
+    }, 
+    {
+        "admin": "Leiria"
+    }, 
+    {
+        "admin": "Beja"
+    }, 
+    {
+        "admin": "Bragança"
+    }, 
+    {
+        "admin": "Castelo Branco"
+    }, 
+    {
+        "admin": "Guarda"
+    }, 
+    {
+        "admin": "Santarem"
+    }, 
+    {
+        "admin": "Viseu"
+    },
+    {
+        "admin": "Vila Real"
+    }, 
+    {
+        "admin": "Portalegre"
+    }, 
+    {
+        "admin": "Viana do Castelo"
+    }
+]
